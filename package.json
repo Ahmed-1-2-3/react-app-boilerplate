@@ -1,0 +1,12 @@
+{
+  "name": "fcc-node-express-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for freeCodeCamp Basic Node and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
